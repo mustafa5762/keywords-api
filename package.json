@@ -8,10 +8,17 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "nodejs-project",
+  "engines": {
+    "node": "16.14.2"
+  },
+  "name": "keywords-api",
   "version": "1.0.0",
-  "main": "server.js",
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "description": "This example is so cool.",
+  "main": "web.js",
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "mustafa",
+  "license": "MIT"
 }
