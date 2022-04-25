@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
